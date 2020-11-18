@@ -1,12 +1,14 @@
 # Goal_Diggers!
 ## Idea of the project
-![Screenshot from 2020-11-17 16-19-47](https://user-images.githubusercontent.com/54857354/99381559-48e30900-28f1-11eb-97f7-6c093fd2bb60.png)
-![Screenshot from 2020-11-17 16-20-13](https://user-images.githubusercontent.com/54857354/99381694-6e701280-28f1-11eb-90a2-3a33c7f12eb8.png)
-![Screenshot from 2020-11-17 16-20-32](https://user-images.githubusercontent.com/54857354/99381704-716b0300-28f1-11eb-9438-70651589cc10.png)
-![Screenshot from 2020-11-17 16-20-50](https://user-images.githubusercontent.com/54857354/99381717-7465f380-28f1-11eb-986c-37293acf0658.png)
-![Screenshot from 2020-11-17 16-21-15](https://user-images.githubusercontent.com/54857354/99381726-7760e400-28f1-11eb-93f4-df0db4e26fc6.png)
-![Screenshot from 2020-11-17 16-21-42](https://user-images.githubusercontent.com/54857354/99381729-79c33e00-28f1-11eb-82c1-574d79f80d3e.png)
-![Screenshot from 2020-11-17 16-22-20](https://user-images.githubusercontent.com/54857354/99381735-7c259800-28f1-11eb-8422-e3655c488248.png)
+![Screenshot from 2020-11-17 16-19-47](Files/1.png)
+![Screenshot from 2020-11-17 16-20-13](Files/2.png)
+![Screenshot from 2020-11-17 16-20-32](Files/3.png)
+![Screenshot from 2020-11-17 16-20-50](Files/4.png)
+![Screenshot from 2020-11-17 16-21-15](Files/5.png)
+![Screenshot from 2020-11-17 16-21-42](Files/6.png)
+![Screenshot from 2020-11-17 16-22-20](Files/7.png)
+![Screenshot from 2020-11-17 16-22-20](Files/8.png)
+![Screenshot from 2020-11-17 16-22-20](Files/9.png)
 
 ## Video Demo
 ![](Files/ezgif.com-gif-maker.gif)</br>
