@@ -20,11 +20,7 @@ https://drive.google.com/file/d/1s-SRirSX_pyU8cxIVb_fe09Vo4bd6jST/view?usp=shari
 ## Basic Issues faced
 ![DHP_Conv](https://user-images.githubusercontent.com/54857354/99382090-00781b00-28f2-11eb-9c3d-8fed651f2a6f.png)
 
-## Working of the prototype:
-
-## Recommendation System :
-![Screenshot from 2020-09-26 15-47-26](https://user-images.githubusercontent.com/54857354/99382956-41bcfa80-28f3-11eb-90db-6365cb3810e1.png)
-![Screenshot from 2020-09-26 15-48-24](https://user-images.githubusercontent.com/54857354/99382967-44b7eb00-28f3-11eb-8d88-221c8632f9a8.png)
+## Working of the prototype: 
   
 ## How to Run:
 ## For Reccommendation Portal
