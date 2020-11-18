@@ -1,2 +1,3 @@
 # Goal_Diggers!
-[Alt text](Files/ezgif.com-gif-maker.gif)
+![](Files/ezgif.com-gif-maker.gif)</br>
+![](Files/ezgif.com-gif-make.gif)
