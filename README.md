@@ -1,2 +1,2 @@
 # Goal_Diggers!
-[Alt text](https://sample/url/name-of-gif-file.gif)
+[Alt text](Files/ezgif.com-gif-maker.gif)
