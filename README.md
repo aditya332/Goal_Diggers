@@ -10,9 +10,12 @@
 ![Screenshot from 2020-11-17 16-22-20](Files/8.png)
 ![Screenshot from 2020-11-17 16-22-20](Files/9.png)
 
-## Video Demo
-![](Files/ezgif.com-gif-maker.gif)</br>
-![](Files/ezgif.com-gif-make.gif)
+# Video Demo
+## Recommendation System Video Link
+https://drive.google.com/file/d/1sWUNRMOxaJE4MhrFsAtW7QV5xDurh1Et/view?usp=sharing
+
+## App Demo Video Link
+https://drive.google.com/file/d/1s-SRirSX_pyU8cxIVb_fe09Vo4bd6jST/view?usp=sharing
 
 ## Basic Issues faced
 ![DHP_Conv](https://user-images.githubusercontent.com/54857354/99382090-00781b00-28f2-11eb-9c3d-8fed651f2a6f.png)
